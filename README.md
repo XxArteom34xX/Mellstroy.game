@@ -1,2 +1,2 @@
-# Mellstroy.game
+# Mellstroy.games
 My first project jn GitHab
